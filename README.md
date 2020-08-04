@@ -1,4 +1,4 @@
 # **Discrete math tasks**
 
 **Контрольные работы**
-> [GitHub Pages](https://pages.github.com/)
+> [кр](https://github.com/protasenya02/Discrete-math/tree/master/контрольные%20работы)
