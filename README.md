@@ -6,6 +6,10 @@
 **Практические занятия**
 > [пз №10](https://github.com/protasenya02/Discrete-math/tree/master/пз%2010)
 
-> [пз №10](https://github.com/protasenya02/Discrete-math/tree/master/пз%2011)
+> [пз №11](https://github.com/protasenya02/Discrete-math/tree/master/пз%2011)
 
+> [пз №12](https://github.com/protasenya02/Discrete-math/tree/master/пз%2012)
 
+> [пз №13](https://github.com/protasenya02/Discrete-math/tree/master/пз%2013)
+
+> [пз №14](https://github.com/protasenya02/Discrete-math/tree/master/пз%2014)
